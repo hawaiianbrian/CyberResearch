@@ -44,4 +44,42 @@
   `hxxp://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/`
 
 - **Ahmia**  
-  `hxxp://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankd
+  `hxxp://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/`
+
+- **Haystak**  
+  `hxxp://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/`
+
+- **Darkweb Wayback / Archive**  
+  `hxxp://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/`
+
+- **HiddenWiki (onion)**  
+  `hxxp://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page`
+
+---
+
+## Deepweb / Clearnet Hacking Communities
+
+> (Clearnet resources, forums, aggregators — some may be seized, closed, or mirror networks)
+
+- **LeakBase** — `https://leakbase.io/`
+- **Cracked** — `Cracked.sh`
+- **Patched** — `https://patched.to/`
+- **0x00 SEC** — `0x00sec` (community)
+- **Nulled** — *seized / unavailable* (status varies)
+- **Altenen** — *forum (hacking, leaks)*
+- **Hydra (forum)** — `https://hydraforums.io/`
+- **RansomFeed** — `Ransomfeed` (aggregator)
+- **HackForums** — `HackForums` (public forum)
+- **BlackHatWorld** — `BlackHatWorld` (public forum)
+- **Exploit.in** — `Exploit.in`
+- **Forum list / Aggregators** — various
+- **F* AV (Russian forum)** — `https://fuckav.ru/register.php` *(410 Gone / unavailable in some cases)*
+
+---
+
+## Notes & Status
+- Items marked **SEIZED** or **410/Gone** were observed as taken down or inaccessible at the time of the original note.  
+- `.onion` entries are intentionally obfuscated (`hxxp` / `hxxps`) — do not convert to clickable links unless you intend to access via Tor and accept the associated risks.  
+- This list is **not** exhaustive. Darkweb/Deepweb resources change frequently (mirrors, seizures, takedowns). Use operational security and legal counsel before interacting with any of these sites.
+
+---
