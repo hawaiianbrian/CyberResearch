@@ -1,76 +1,47 @@
-===========
-DARKWEB
-XSS Forum
-hxxps://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/index.php
+# Darkweb / Deepweb Resource Index (cleaned)
 
-0-Day Today
-hxxp://sq542reyqwagfkghieehykb6hh6ohku5irarrrbeeo5iyozdbhe5n3id.onion/
+> **Disclaimer:** This list is for research/reference only. Accessing darknet services or participating in illegal marketplaces may be unlawful in your jurisdiction. Do not attempt to access .onion services unless you understand the legal and operational risks. Use this list responsibly.
 
-Kerbos
-hxxp://kerberosazmnfrjinmftp3im3cr7hw4nxbavm4ngofn64g24be7h3kqd.onion/login/
+---
 
-Breached (Seized as of April 2025)
-hxxp://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/
+## Table of Contents
+- [Darkweb](#darkweb)
+  - [Forums & Services](#forums--services)
+  - [Search Engines](#search-engines)
+- [Deepweb / Clearnet Hacking Communities](#deepweb--clearnet-hacking-communities)
+- [Notes & Status](#notes--status)
 
-DarkNet Army
-hxxp://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/
+---
 
-SEARCH ENGINES
-	Torch
-hxxp://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega
+## Darkweb
 
-	DuckDuckGO
-hxxps://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+### Forums & Services
+- **XSS Forum**  
+  `hxxps://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/index.php`
 
-	DeepSearch
-hxxp://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/
+- **0-Day Today**  
+  `hxxp://sq542reyqwagfkghieehykb6hh6ohku5irarrrbeeo5iyozdbhe5n3id.onion/`
 
-	Ahmia
-hxxp://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/
+- **Kerbos (login page)**  
+  `hxxp://kerberosazmnfrjinmftp3im3cr7hw4nxbavm4ngofn64g24be7h3kqd.onion/login/`
 
-	Haystak
-hxxp://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/
+- **Breached (seized as of Apr 2025)**  
+  `hxxp://breached26tezcofqla4adzyn22notfqwcac7gpbrleg4usehljwkgqd.onion/` — *SEIZED (Apr 2025)*
 
-darkweb wayback machine
-hxxp://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/
+- **DarkNet Army**  
+  `hxxp://darknet77vonbqeatfsnawm5jtnoci5z22mxay6cizmoucgmz52mwyad.onion/`
 
-HiddenWiki
-hxxp://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page
+---
 
-===========
-DEEPWEB
-LeakBase
-https://leakbase.io/ 
+## Darkweb — Search Engines & Directories
+- **Torch**  
+  `hxxp://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/cgi-bin/omega/omega`
 
-Cracked 
-Cracked.sh
+- **DuckDuckGo (onion)**  
+  `hxxps://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/`
 
-Patched
-https://patched.to/ 
+- **DeepSearch**  
+  `hxxp://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/`
 
-0x00 SEC
-0x00sec 
-
-Nulled (Seized) 
- 
-Altenen
-Home - Altenen Forum | Hacking, Cracking, Onlyfans Leaks & Making... 
-
-Hydra
-https://hydraforums.io/ 
-
-Ransom Feed
-Ransomfeed 
-
-HackForums
-
-BlackHatWorld
-
-Forum list 
-
-Exploit.in
-
-
-F* AV (Russian Hacking Forum) 410 Gone
-
-https://fuckav.ru/register.php 
+- **Ahmia**  
+  `hxxp://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankd
